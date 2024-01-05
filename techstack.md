@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ammaralnajim/InsecureShop](https://github.com/ammaralnajim/InsecureShop)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|12/20/23 <br/>Report generated|
+|9<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
